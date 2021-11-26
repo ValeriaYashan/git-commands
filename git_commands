@@ -1,6 +1,6 @@
 Essential Git Commands
 
-Create a new repository on the command line
+##Create a new repository on the command line
 
 echo "# prueba" >> README.md
 git init
@@ -10,7 +10,7 @@ git branch -M main
 git remote add origin https://github.com/ValeriaYashan/prueba.git
 git push -u origin main
 
-Push an existing repository from the command line
+##Push an existing repository from the command line
 
 git remote add origin https://github.com/ValeriaYashan/prueba.git
 git branch -M main
