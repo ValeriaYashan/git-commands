@@ -1,0 +1,20 @@
+Essential Git Commands
+
+1.ls
+2.cd 
+	#Change the directory to the project which has to be uploaded to github repository
+3.git init 
+	#Initialize the repository
+4.git remote add origin  <git link> 
+	#Copy the github repo link from the browser and paste in git bash in above format.
+5.git remote -v
+	#Checking access for push and pull
+6.git add .
+	#Adds all the files present in the working directory.
+7.git commit -m "Commit Message"
+	#Commiting the files from the directory into the repository.
+8.git push origin master
+	#Will ask for credentials when using for the first time,so provide github username and password on the git bash.
+	#Files commited will be pushed into the repository on GitHub
+
+USE git help command if you are stuck at any step.
