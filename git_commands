@@ -22,5 +22,5 @@ USE git help command if you are stuck at any step.
 ##Create a new branch
 
 git checkout -b Nombredenuevarama
-
-git show-branch 
+git branch        para listar las ramas
+git show-branch   para mostrar las ramas
