@@ -19,6 +19,8 @@ git push -u origin main
 
 USE git help command if you are stuck at any step.
 
+##Create a new branch
+
 git checkout -b Nombredenuevarama
 
 git show-branch 
