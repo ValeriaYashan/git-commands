@@ -18,3 +18,7 @@ git push -u origin main
 
 
 USE git help command if you are stuck at any step.
+
+git branch -b Nombredenueva rama
+
+git show-branch 
